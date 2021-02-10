@@ -22,6 +22,8 @@ If you would like to get this project running in your own development environmen
 
 ## Topics Covered
 
+Below shows the projects and which React topic(s) were applied for them.
+
 #### useState Hook
 
 1. Birthday Reminder
