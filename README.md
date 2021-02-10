@@ -6,15 +6,23 @@ This repository contains a variety of React projects created with [Create React 
 
 These projects were created to help me understand and get comfortable with React, by applying the theory I had learned practically.
 
-## Installation
+## Demo
+
+A live demo of each of these projects can be viewed here. Alternatively, you can run it in your own development environment by following the steps below, if you wish.
+
+## Installation/Usage
 
 If you would like to get this project running in your development environment:
 
 - Make sure that you have Node and NPM installed on your machine.
 - Clone the repository with the terminal window.
 - `cd` into the repo.
-- Navigate to the project(branch) you wish to view with `git checkout origin/<branch>`. You can get a list of all the branches available with `git branch -a`.
+- Navigate to the project(branch) you wish to view with `git checkout origin/<branch-name>`. You can get a list of all the branches available with `git branch -a`.
 - Run `npm install` to install the dependencies, then `npm start` to start the development server.
+
+## Credit
+
+This repository was possible thanks to [John Smilga](https://github.com/john-smilga), who produced a course that helped me to grasp the basics of React.
 
 # Getting Started with Create React App
 
