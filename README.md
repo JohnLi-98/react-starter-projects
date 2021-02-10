@@ -1,3 +1,21 @@
+# React Starter Projects
+
+This repository contains a variety of React projects created with [Create React App](https://github.com/facebook/create-react-app). The master branch is the default initialisation of Create React App. Each of the other branches include a mini project of their own, using the React framework.
+
+## Motivation
+
+These projects were created to help me understand and get comfortable with React, by applying the theory I had learned practically.
+
+## Installation
+
+If you would like to get this project running in your development environment:
+
+- Make sure that you have Node and NPM installed on your machine.
+- Clone the repository with the terminal window.
+- `cd` into the repo.
+- Navigate to the project(branch) you wish to view with `git checkout origin/<branch>`. You can get a list of all the branches available with `git branch -a`.
+- Run `npm install` to install the dependencies, then `npm start` to start the development server.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
