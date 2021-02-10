@@ -22,11 +22,11 @@ If you would like to get this project running in your own development environmen
 
 ## Topics Covered
 
-### useState Hook
+#### useState Hook
 
 1. Birthday Reminder
 
-### useEffect Hook and Conditional Rendering
+#### useEffect Hook and Conditional Rendering
 
 2. Tours
 3. Reviews
@@ -35,26 +35,26 @@ If you would like to get this project running in your own development environmen
 6. Tabs
 7. Slider
 
-### Forms
+#### Forms
 
 8. Lorem Ipsum Generator
 9. Color Shades Generator
 10. Grocery Bud
 
-### useRef Hook
+#### useRef Hook
 
 11. Navbar
 
-### useContext Hook
+#### useContext Hook
 
 12. Modal and Sidebar
 13. Stripe Submenus
 
-### useReducer and useContext Hooks
+#### useReducer and useContext Hooks
 
 14. Cart
 
-### React Router and useCallback Hook
+#### React Router and useCallback Hook
 
 15. Cocktails
 
