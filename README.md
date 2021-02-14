@@ -8,7 +8,7 @@ These projects were created to help me understand and get comfortable with React
 
 ## Demo
 
-A live demo of each of these projects can be viewed here. Alternatively, you can run it in your own development environment by following the steps below, if you wish.
+A live demo of each of these projects can be viewed [here](https://react-starter-projects.netlify.app/). Alternatively, you can run it in your own development environment by following the steps below, if you wish.
 
 ## Installation/Usage
 
